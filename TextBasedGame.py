@@ -1,5 +1,3 @@
-# Josiah Bawden
-
 locations = {
     'Villain Cave': {'South': 'Extended Desert', 'Enemy': 'Bookkeeper'},
     'Extended Desert': {'North': 'Villain Cave', 'South': 'Home', 'Enemy': 'Thirst'},
